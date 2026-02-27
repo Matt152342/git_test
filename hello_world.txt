@@ -1,0 +1,3 @@
+Hello world!
+It is a pleasure to announce that I have joined the Odin Project.
+Not its my turn to live the SWE life!
